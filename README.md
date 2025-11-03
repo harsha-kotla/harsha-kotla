@@ -1,3 +1,3 @@
-# ⚡️ Join WordMate
-Supercharge your vocabulary with AI.  
-👉 [wordmate.app](https://wordmate.app)
+# ⚡️ WordMate
+AI-powered vocab learning.  
+Join here → [wordmate.app](https://wordmate.app)
