@@ -1,3 +1,3 @@
-⚡️ Building WordMate - AI-powered vocabulary learning  
+⚡️ Building WordMate -> AI-powered language learning
 
 Join here → [wordmate.app](https://www.wordmate.app)
