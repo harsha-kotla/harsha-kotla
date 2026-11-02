@@ -3,5 +3,5 @@
 
 I'm interested in LLM interpretability, AI safety, financial technology, and building scalable software.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-kotla&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harsha-kotla&layout=compact&theme=tokyonight)
 
