@@ -1,7 +1,4 @@
 
 # Hey, I'm Harsha
 
-I'm interested in LLM interpretability, AI safety, financial technology, and building scalable software.
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harsha-kotla&layout=compact&theme=tokyonight)
-
+I'm interested in LLM interpretability, AI safety, financial technology, and building scalable software. Check out my projects below!
